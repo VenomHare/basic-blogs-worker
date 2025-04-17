@@ -1,0 +1,13 @@
+{
+  "name": "@sarthak00dev/mediumtypes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "zod": "^3.24.3"
+  }
+}
